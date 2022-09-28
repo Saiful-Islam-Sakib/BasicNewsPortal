@@ -1,2 +1,2 @@
 # BasicNewsPortal
-A single page application called without any UI framework
+A single page application without any UI framework
